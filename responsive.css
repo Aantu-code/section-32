@@ -1,0 +1,17 @@
+@media only screen and (min-width: 992px) {
+  .shadow-gallary img {
+    margin-left: 100px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .shadow-gallary img {
+    margin-left: 70px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .shadow-gallary {
+    margin-top: 50px;
+  }
+}
+@media only screen and (max-width: 568px) {
+}
